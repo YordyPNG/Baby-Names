@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=YearlyData
+comment1.params=year\ boys\ girls
+comment1.target=YearlyData(int,\ Baby[],\ Baby[])
+comment2.params=
+comment2.target=int\ getYear()
+comment3.params=
+comment3.target=Baby[]\ getBoys()
+comment4.params=
+comment4.target=Baby[]\ getGirls()
+numComments=5
