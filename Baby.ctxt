@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Baby
+comment1.params=name\ rank\ count
+comment1.target=Baby(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=int\ getRank()
+comment4.params=
+comment4.target=int\ getCount()
+comment5.params=additionalCount
+comment5.target=void\ addCount(int)
+comment6.params=other
+comment6.target=int\ compareTo(Baby)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9
