@@ -6,4 +6,4 @@ display on the screen the total number of
 3) The name of baby (boy or girl) that first crossed 10 Millionth babies (summing from most popular baby names, that is, from the top down.)
 
 There will be numerous arrays, eaach year will be two arrays (boy and girl).
-They will be in alphabetical order and they will be shown on the screen as well as in a new created file.
+They will be in alphabetical order and they will be shown on the screen as well as in a new created file (boyYYYY and girlYYYY).
